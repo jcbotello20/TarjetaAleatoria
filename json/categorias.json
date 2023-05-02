@@ -1,0 +1,94 @@
+{
+  "Categorias": [
+    {
+      "id": 1,
+      "tipo": "Persona",
+      "nombre": "Jhon",
+      "años": "15",
+      "ser": "Ser Vivo",
+      "caracteristicas": "Rubio, Alto, Inteligente",
+      "imagen": "https://drive.google.com/uc?id=1JKxwYFCGnLLerj_a6rK0hLnat3EqVlrH"
+    },
+    {
+      "id": 2,
+      "tipo": "Mascota",
+      "nombre": "Max",
+      "años": "3",
+      "ser": "Ser Vivo",
+      "caracteristicas": "Peludo, Pequeño, Jueguetón",
+      "imagen": "https://drive.google.com/uc?id=1D-P5hcISIQhCj5LQl_Gxxv-NdD8n4iH3"
+    },
+    {
+      "id": 3,
+      "tipo": "Coche",
+      "nombre": "Mercedes Benz",
+      "años": "1",
+      "ser": "Objeto",
+      "caracteristicas": "Blanco, Deportivo, Rapido",
+      "imagen": "https://drive.google.com/uc?id=1HBRahW1cC2bhCoHRPl3Q-W3UNI7Ssmqu"
+    },
+    {
+      "id": 4,
+      "tipo": "Edificio",
+      "nombre": "Burj Khalifa",
+      "años": "19",
+      "ser": "Objeto",
+      "caracteristicas": "Mas alto del Mundo ,Lujoso, Acristalado",
+      "imagen": "https://drive.google.com/uc?id=1q4L_6bfVCeauSPgiXngetbGQ3BYs0pOR"
+    },
+    {
+      "id": 5,
+      "tipo": "Planeta",
+      "nombre": "Tierra",
+      "años": "4.54 Mil Millones",
+      "ser": "Ser Vivo",
+      "caracteristicas": "Redondo, Habitable, Diversidad",
+      "imagen": "https://drive.google.com/uc?id=1ZV8zaIsMSwEO33CBInz4qSQKD5wZLjpu"
+    },
+    {
+      "id": 6,
+      "tipo": "Telefono",
+      "nombre": "Iphone 14",
+      "años": "2",
+      "ser": "Objeto",
+      "caracteristicas": "Ultimo, ModeloRapido, Inteligente",
+      "imagen": "https://drive.google.com/uc?id=1bX5s0UMKAu1KLcCV71CslQ55gW-NJXl_"
+    },
+    {
+      "id": 7,
+      "tipo": "Arbol",
+      "nombre": "Roble ",
+      "años": "50",
+      "ser": "Ser Vivo",
+      "caracteristicas": "Frondoso, Alto, Caducifolio",
+      "imagen": "https://drive.google.com/uc?id=1j3PA0HwB5Lk-ptnxnw5BZ1Qd6PGqy5th"
+    },
+    {
+      "id": 8,
+      "tipo": "Pelicula",
+      "nombre": "We Are Your Friends",
+      "años": "8",
+      "ser": "Pelicula",
+      "caracteristicas": "Divertida, Musica, Entrenida",
+      "imagen": "https://drive.google.com/uc?id=1eYRyFWnDemG_Fv70G93defzdnic6h0Hh"
+    },
+    {
+      "id": 9,
+      "tipo": "Instrumento",
+      "nombre": "Guitarra",
+      "años": "500",
+      "ser": "Objeto",
+      "caracteristicas": "Acústica, Cuerdas, Versatil",
+      "imagen": "https://drive.google.com/uc?id=1k_wvJhjGEi0l16W9Q5OI0dtgntmb3hsO"
+    },
+    {
+      "id": 10,
+      "tipo": "Planeta",
+      "nombre": "Plutón",
+      "años": "4.57 Mil Millones",
+      "ser": "Muerto",
+      "caracteristicas": "Pequeño, HeladoÓrbita, excéntrica",
+      "imagen": "https://drive.google.com/uc?id=14eW62jBYv3gixXFIPEKD-vZhf-8agTxg"
+    }
+  ]
+}
